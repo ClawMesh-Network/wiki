@@ -18,6 +18,8 @@
 
 目前该项目由 [BlueFunny](https://github.com/FunnyShadow) 与 [Xiao_Jin](https://github.com/jinzhijie) 管理与维护
 
+该项目采用 [Tailscale](https://github.com/tailscale/tailscale) 与 [Headscale](https://github.com/juanfont/headscale) 作为实现技术基础
+
 ## 如何使用?
 
 如果你是一个 Minecraft 联机玩家, 请[点击此处]()以查看如何联机
